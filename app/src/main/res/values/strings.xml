@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SISVITA</string>
+    <string name="correo_input">Correo electronico</string>
+    <string name="password_input">Contraseña</string>
+    <string name="iniciar_sesion">Iniciar Sesion</string>
+    <string name="descripcion_cuenta">No tienes una cuenta.</string>
+    <string name="register">Registrate\n</string>
+</resources>
